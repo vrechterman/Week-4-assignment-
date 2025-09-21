@@ -50,3 +50,24 @@ def run_help_desk():
 
 if __name__ == "__main__":
     run_help_desk()
+
+
+'''
+Memo: 
+For this week’s assignment we learned what stacks, queues, and 
+when to use a stack or a queue. A stack is a linear data that 
+follows a last in, first out order. The last value added is the 
+first one removed. Now for, is the queues, queues is a linear data 
+structure that follows a first in, first out order. In a queue, 
+the first value added is the first one removed. Now that stacks 
+and queues have been explained, it is time to explain when to 
+use them. Stacks are used when the most recent action should be 
+handled first. On the other hand, queues are used when the first 
+request should be handled first. Stacks are effective for this type 
+of assignment with us doing undo/ redo systems because it aligns better 
+with this type of coding. And for queues, it is better used for help
+ desk ticketing, it is the best thing to be able to take the costumers 
+ requests for a help desk scenario. For this assignment, building this 
+ code by using the stacks and queues using linked nodes, along with the 
+ pop and push, as well as the enqueue, it will make the performance run a lot smoother. 
+ '''
